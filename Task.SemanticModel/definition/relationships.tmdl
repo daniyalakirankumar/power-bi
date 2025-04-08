@@ -1,0 +1,16 @@
+relationship AutoDetected_8b7a880b-aa04-43fa-816d-b5adf17caa33
+	fromColumn: Sales.CustomerID
+	toColumn: Customer.CustomerID
+
+relationship AutoDetected_856177ba-f146-4c7c-b170-b72b4d55aba0
+	fromColumn: Sales.ProductID
+	toColumn: Product.ProductID
+
+relationship AutoDetected_253c430f-076a-4ac7-ab79-f80da0459a14
+	fromColumn: Sales.RegionID
+	toColumn: Region.RegionID
+
+relationship AutoDetected_168fee1b-f632-4563-9703-8c58138866ab
+	fromColumn: Sales.SalesRepID
+	toColumn: SalesRep.SalesRepID
+

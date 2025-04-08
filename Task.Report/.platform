@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "Report",
+    "displayName": "Task"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "5a7ec5ce-3053-47ae-8268-aead9e0b7f94"
+  }
+}
