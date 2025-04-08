@@ -14,3 +14,8 @@ relationship AutoDetected_168fee1b-f632-4563-9703-8c58138866ab
 	fromColumn: Sales.SalesRepID
 	toColumn: SalesRep.SalesRepID
 
+relationship 2cf212f0-7e08-486d-beab-4ab47ea5eb6e
+	joinOnDateBehavior: datePartOnly
+	fromColumn: Sales.DateKey
+	toColumn: LocalDateTable_d1b0c5d6-5b9e-4403-83fc-3ed31cddaec6.Date
+

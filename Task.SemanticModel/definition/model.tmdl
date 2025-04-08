@@ -19,6 +19,8 @@ ref table Product
 ref table Region
 ref table Sales
 ref table SalesRep
+ref table DateTableTemplate_1ab977a4-90bf-43bc-bceb-efaa39a05a7e
+ref table LocalDateTable_d1b0c5d6-5b9e-4403-83fc-3ed31cddaec6
 
 ref cultureInfo en-US
 
